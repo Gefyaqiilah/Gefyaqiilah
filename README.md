@@ -2,7 +2,7 @@
 - 👀 I’m interested in Full Stack Developer
 - 🌱 I’m currently learning Ionic Angular
 - 💞️ I’m looking to collaborate on Ionic Angular Project
-- 📫 Reach me on gefyaqiilah26@gmail.com
+- 📫 Reach me on gefyaqiilah@hotmail.com
 
 <!---
 Gefyaqiilah/Gefyaqiilah is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
